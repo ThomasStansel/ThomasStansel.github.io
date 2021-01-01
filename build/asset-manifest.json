@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9615c5b9.chunk.css",
+    "main.js": "/static/js/main.9af6897f.chunk.js",
+    "main.js.map": "/static/js/main.9af6897f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cb147ce0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cb147ce0.js.map",
+    "static/js/2.a841c9c7.chunk.js": "/static/js/2.a841c9c7.chunk.js",
+    "static/js/2.a841c9c7.chunk.js.map": "/static/js/2.a841c9c7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9615c5b9.chunk.css.map": "/static/css/main.9615c5b9.chunk.css.map",
+    "static/js/2.a841c9c7.chunk.js.LICENSE.txt": "/static/js/2.a841c9c7.chunk.js.LICENSE.txt",
+    "static/media/Thomas_Stansel_Resume.37849a41.pdf": "/static/media/Thomas_Stansel_Resume.37849a41.pdf",
+    "static/media/byu-icon.9c3d30f3.jpg": "/static/media/byu-icon.9c3d30f3.jpg",
+    "static/media/MainSection.css": "/static/media/main-home.33136e1f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb147ce0.js",
+    "static/js/2.a841c9c7.chunk.js",
+    "static/css/main.9615c5b9.chunk.css",
+    "static/js/main.9af6897f.chunk.js"
+  ]
+}
