@@ -1,0 +1,136 @@
+.cards {
+  padding: 4rem;
+  background: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #3b5bdb;
+}
+
+.cards-container {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.cards-wrapper {
+  position: relative;
+  margin: 50px 0 45px;
+}
+
+.fa-java {
+  color: #1b1919;
+  margin-bottom: 20px;
+  font-size: 64px;
+}
+
+.fa-python {
+  color: #1b1919;
+  margin-bottom: 20px;
+  font-size: 64px;
+}
+
+.fa-android {
+  color: #1b1919;
+  margin-bottom: 20px;
+  font-size: 64px;
+}
+
+.fa-github {
+  color: #1b1919;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.fa-github:hover{
+  transform: scale(1.1);
+}
+
+.fa-youtube {
+  color: #eb3423;
+  margin-bottom: 20px;
+  font-size: 32px;
+  margin-left: 5px;
+}
+
+.fa-youtube:hover{
+  transform: scale(1.1);
+}
+
+.icon-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.cards-items {
+  margin-bottom: 24px;
+}
+
+.cards-item {
+  display: flex;
+  flex: 1;
+  margin: 0 1rem;
+  border-radius: 10px;
+}
+
+.cards-item-link {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+  -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+  border-radius: 10px;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.cards-item-info {
+  padding: 20px 30px 30px;
+}
+
+.cards-item-title {
+  color: #3b5bdb;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.cards-item-description {
+  color: #8c8c8c;
+  margin-top: 20px;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.icon-links{
+  display: flex;
+  width: 100%;
+  margin-top: 15px;
+  justify-content: center;
+}
+
+@media only screen and (min-width: 1200px) {
+  .content-blog-container {
+    width: 84%;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .cards-items {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .cards-item {
+    margin-bottom: 2rem;
+  }
+}
