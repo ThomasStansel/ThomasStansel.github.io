@@ -10,13 +10,13 @@ function MainSection() {
                 Hello, I'm Thomas Stansel
                 <br/>
                 <br/>
-                a Software Engineer
+                Software Engineer
                 <br/>
-                a CS student
+                BYU CS student
                 <br/>
-                a mountaineer
+                lover of National Parks
                 <br/>
-                a life-long learner.
+                life-long learner.
             </p>
         </div>
     )

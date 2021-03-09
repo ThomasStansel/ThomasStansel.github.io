@@ -1,5 +1,5 @@
 .footer-container {
-  background-color: #242424;
+  background-color: #fff;
   padding: 4rem 0 2rem 0;
   display: flex;
   flex-direction: column;
@@ -8,7 +8,7 @@
 }
 
 .fa-github-square {
-  color: #ffffff;
+  color: #242424;
   margin-right: 15px;
   margin-bottom: 20px;
   font-size: 55px;
@@ -19,7 +19,7 @@
 }
 
 .fa-linkedin {
-  color: #fff;
+  color: #242424;
   margin-right: 15px;
   margin-bottom: 20px;
   font-size: 55px;
@@ -30,7 +30,7 @@
 }
 
 .fa-envelope-square {
-  color: #fff;
+  color: #242424;
   margin-right: 15px;
   margin-bottom: 20px;
   font-size: 55px;
@@ -41,7 +41,7 @@
 }
 
 .fa-file-alt {
-  color: #fff;
+  color: #242424;
   margin-right: 15px;
   margin-bottom: 20px;
   font-size: 47px;
@@ -67,7 +67,7 @@
 
   margin-bottom: 24px;
   padding: 24px;
-  color: #fff;
+  color: #242424;
 }
 
 .footer-subscription > p {
@@ -122,11 +122,11 @@
 }
 
 .footer-link-items > h2 {
-  color: #fff;
+  color: #242424;
 }
 
 .footer-link-items a {
-  color: #fff;
+  color: #242424;
   text-decoration: none;
   margin-bottom: 0.5rem;
 }
@@ -146,7 +146,7 @@
 
 /* Social Icons */
 .social-icon-link {
-  color: #fff;
+  color: #242424;
   font-size: 24px;
 }
 
@@ -172,7 +172,7 @@
 }
 
 .social-logo {
-  color: #fff;
+  color: #242424;
   justify-self: start;
   margin-left: 20px;
   cursor: pointer;
@@ -184,7 +184,7 @@
 }
 
 .website-rights {
-  color: #fff;
+  color: #242424;
   margin-bottom: 16px;
 }
 

@@ -75,6 +75,11 @@ function Navbar() {
                           </Link>
                       </li>
                       <li className='nav-item'>
+                          <Link to='mountains' className='nav-links' onClick={closeMobileMenu} activeClass="active" spy={true} smooth={true} offset={-110} duration={700}>
+                              National Parks
+                          </Link>
+                      </li>
+                      <li className='nav-item'>
                           <Link to='footer' className='nav-links-mobile' onClick={closeMobileMenu} activeClass="active" spy={true} smooth={true} offset={-110} duration={700}>
                               Contact
                           </Link>
