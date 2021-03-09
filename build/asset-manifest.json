@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.9615c5b9.chunk.css",
-    "main.js": "/static/js/main.0f6a3e01.chunk.js",
-    "main.js.map": "/static/js/main.0f6a3e01.chunk.js.map",
+    "main.css": "/static/css/main.306fe4cc.chunk.css",
+    "main.js": "/static/js/main.4dcf779c.chunk.js",
+    "main.js.map": "/static/js/main.4dcf779c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cb147ce0.js",
     "runtime-main.js.map": "/static/js/runtime-main.cb147ce0.js.map",
-    "static/js/2.a841c9c7.chunk.js": "/static/js/2.a841c9c7.chunk.js",
-    "static/js/2.a841c9c7.chunk.js.map": "/static/js/2.a841c9c7.chunk.js.map",
+    "static/js/2.2a94431a.chunk.js": "/static/js/2.2a94431a.chunk.js",
+    "static/js/2.2a94431a.chunk.js.map": "/static/js/2.2a94431a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9615c5b9.chunk.css.map": "/static/css/main.9615c5b9.chunk.css.map",
-    "static/js/2.a841c9c7.chunk.js.LICENSE.txt": "/static/js/2.a841c9c7.chunk.js.LICENSE.txt",
+    "static/css/main.306fe4cc.chunk.css.map": "/static/css/main.306fe4cc.chunk.css.map",
+    "static/js/2.2a94431a.chunk.js.LICENSE.txt": "/static/js/2.2a94431a.chunk.js.LICENSE.txt",
+    "static/media/Capital_reef.c144b5b5.png": "/static/media/Capital_reef.c144b5b5.png",
+    "static/media/Great_basin.ed467ecb.JPG": "/static/media/Great_basin.ed467ecb.JPG",
     "static/media/Thomas_Stansel_Resume.73c66fc8.pdf": "/static/media/Thomas_Stansel_Resume.73c66fc8.pdf",
     "static/media/byu-icon.9c3d30f3.jpg": "/static/media/byu-icon.9c3d30f3.jpg",
-    "static/media/MainSection.css": "/static/media/main-home.33136e1f.jpg"
+    "static/media/grandTeton.ca9684ba.jpg": "/static/media/grandTeton.ca9684ba.jpg",
+    "static/media/guadalupe.ec3925c9.JPG": "/static/media/guadalupe.ec3925c9.JPG",
+    "static/media/MainSection.css": "/static/media/main-home.33136e1f.jpg",
+    "static/media/yellowstone.467943a8.jpg": "/static/media/yellowstone.467943a8.jpg",
+    "static/media/zions.102416ac.jpg": "/static/media/zions.102416ac.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cb147ce0.js",
-    "static/js/2.a841c9c7.chunk.js",
-    "static/css/main.9615c5b9.chunk.css",
-    "static/js/main.0f6a3e01.chunk.js"
+    "static/js/2.2a94431a.chunk.js",
+    "static/css/main.306fe4cc.chunk.css",
+    "static/js/main.4dcf779c.chunk.js"
   ]
 }

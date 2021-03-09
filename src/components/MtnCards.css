@@ -48,17 +48,6 @@
   transform: scale(0.95);
 }
 
-.fa-java {
-  color: #fff;
-  margin-bottom: 20px;
-  font-size: 64px;
-}
-
-.fa-python {
-  color: #fff;
-  margin-bottom: 20px;
-  font-size: 64px;
-}
 
 .mtn-icon-container{
   display: flex;
