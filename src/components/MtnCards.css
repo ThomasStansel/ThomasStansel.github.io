@@ -8,6 +8,11 @@
   color: #87b8f5;
 }
 
+.mtn-desc{
+  text-align: center;
+  color: #87b8f5;
+}
+
 .mtn-cards-container {
   display: flex;
   flex-flow: column;
