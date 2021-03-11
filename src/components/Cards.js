@@ -16,7 +16,8 @@ function Cards() {
                             description="An Alexa Skill that is triggered when the student asks for their university's
                             Counseling and Psychological Services(CAPS) phone number. A lambda function then uses web scraping to get the specfied university's
                             CAPS number and gives it back to the student through the Alexa device."
-                            github="https://github.com/TStansel/HackUNO"
+                            github="https://github.com/TStansel/AlexaCAPS"
+                            youtube="https://github.com/TStansel/AlexaCAPS"
                             />
                     </ul>
                 <ul className="cards-items">
